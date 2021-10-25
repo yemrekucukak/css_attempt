@@ -1,0 +1,18 @@
+#main{background-image: linear-gradient(45deg,red,black);}
+.notes{color: rgb(255,20,148);}
+.notes{font-family: "Comic Sans MS", sans-serif; font-size: 24px; font-weight: 840;}
+#question{color: rgb(250,205,50);}
+#question{font-family: "Courier New", monospace ; font-size:24px;}
+#joke{color: rgb(255,255,255);}
+#joke{font-family:"Bradley Hand", cursive; font-size: 24px;}
+#yes{background-image: green; height: 40px; width: 120px;}
+#yes{color: blue;}
+#no{background-image: rgba(255,0,0,30); height: 40px; width: 120px;}
+#no{color: rgba(0,0,0,30);}
+#titles{color: rgb(186,85,211); height: 60px; width: 480px;}
+#titles{background-color: rgb(230,230,260);}
+#infos{color: rgb(75,0,132); height: 60px; width: 480px;}
+#infos{background-color: rgb(230,230,260);}
+#me{height: 720px; width: 540px;}
+
+
